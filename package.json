@@ -1,0 +1,19 @@
+{
+  "name": "site.nissisoft",
+  "version": "1.0.0",
+  "description": "* https://bulmatemplates.github.io/bulma-templates/templates/app-page.html * https://github.com/BulmaTemplates/bulma-templates/blob/master/templates/app-page.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^3.1.8",
+    "luxon": "^3.4.4"
+  }
+}
